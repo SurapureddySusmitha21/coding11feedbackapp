@@ -1,0 +1,81 @@
+/* Write your CSS code here. */
+.card-container {
+  background-image: linear-gradient(to left, #ffeeee, #ffebeb, #ffc0bb);
+  background-size: cover;
+  height: 90vh;
+  margin-top: 100px;
+  margin-left: 190px;
+  margin-bottom: 190px;
+  margin-right: 120px;
+  display: flex;
+  align-items: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 40vh;
+  width: 40%;
+  border-radius: 10px;
+}
+.heading {
+  color: #0f172a;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 25px;
+}
+.button {
+  background-color: transparent;
+  border: transparent;
+}
+.image-url {
+  height: 42px;
+  width: 36px;
+  margin-left: 40px;
+}
+.list {
+  list-style-type: none;
+}
+.emoj-list {
+  display: flex;
+}
+
+.emoj-paragraph {
+  font-size: 7px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-left: 40px;
+  text-align: center;
+}
+.containera {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 40vh;
+  width: 40%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.love-image {
+  height: 46px;
+  width: 42px;
+}
+.love-heading {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #0f172a;
+}
+.paragraph {
+  color: #1e293b;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
